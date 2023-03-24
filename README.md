@@ -10,5 +10,5 @@ Finally, launching a successful Bitcoin startup requires mastering the art of do
 
 Get inspired, informed, and empowered at PlebLab's Startup Day!
 
-💻 View Previous PlebLab Startup Day:
+# 💻 View Previous PlebLab Startup Day:
 All previous PlebLab Startup Day events including video & reference materials are availble here: https://github.com/PlebLab/PlebLab_Startup-Day/issues
