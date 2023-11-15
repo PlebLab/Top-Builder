@@ -1,8 +1,6 @@
 ---
 name: Project Submission / Update
-about: 'This template is part of the Top Builder initiative, aiming for a transparent
-  and fair evaluation process that emphasizes active participation and the project
-  development journey. '
+about: 'Use this template for Top Builder.'
 title: ''
 labels: Top Builder
 assignees: ''
