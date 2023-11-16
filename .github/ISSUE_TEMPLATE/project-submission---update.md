@@ -9,6 +9,13 @@ assignees: ''
 
 # Project Submission / Update
 
+**Instructions:**
+1. After submitting this form, please assign the 'Top Builder' label.
+2. Link this issue to the 'Top Builder 2024 Schedule' project.
+3. If you wish to assign this issue to yourself, please do so after issue creation.
+
+<!-- Your template content follows -->
+
 ## Team Information
 
 - **Team Name**:
@@ -39,9 +46,9 @@ assignees: ''
 
 ### Round Information
 <!-- Indicate the current round for your project -->
-- [ ] Round 1
-- [ ] Round 2
-- [ ] Final Presentation (if applicable)
+- [ ] Round 1 Dec 11th 2023 - Feb 5th 2024
+- [ ] Round 2 Feb 6th 2024 - March 5th 2024
+- [ ] Final Presentation (if applicable) March 14th 2024
 
 ### Scoring and Evaluation
 <!-- Describe your engagement in the project: development, problem-solving, collaboration -->
