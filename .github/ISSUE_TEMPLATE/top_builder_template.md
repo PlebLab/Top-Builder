@@ -1,3 +1,11 @@
+---
+name: Top Builder 2024 Submission
+about: Use this template to submit projects to Top Builder 2024.
+title: "[Top Builder 2024]: "
+labels: Top Builder
+assignees: ''
+---
+
 # Top Builder Application Form
 
 ### Instructions
