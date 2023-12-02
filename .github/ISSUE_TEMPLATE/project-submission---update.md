@@ -60,4 +60,65 @@
 - **Workshop/Event Participation**:
 - **Insights Gained**:
 
+# Frequently Asked Questions for Top Builder Application
 
+<details>
+<summary><b>Q1: Who is eligible to apply for Top Builder?</b></summary>
+A1: Eligible applicants include teams working on Bitcoin and Lightning projects, including startups, existing businesses, and individuals with a strong project concept with an MVP.
+</details>
+
+<details>
+<summary><b>Q2: What kind of projects is Top Builder looking for?</b></summary>
+A2: We seek innovative projects that contribute to the Bitcoin and Lightning ecosystem, ranging from technical solutions to unique business models.
+</details>
+
+<details>
+<summary><b>Q3: What are the stages of the application process?</b></summary>
+A3: The process includes submitting this GitHub form detailing your team, idea, details, and company, followed by various phases of development and review if selected.
+</details>
+
+<details>
+<summary><b>Q4: What should be included in the introduction video?</b></summary>
+A4: Your video should introduce your team, explain your project idea, and highlight its uniqueness and contribution to the Bitcoin and Lightning community. Short 3 minute video is all that is needed.
+</details>
+
+<details>
+<summary><b>Q5: Are international teams allowed to participate?</b></summary>
+A5: Yes, international teams are welcome.
+</details>
+
+<details>
+<summary><b>Q6: Can we apply if we have already received investments?</b></summary>
+A7: Teams with prior investments can apply.
+</details>
+
+<details>
+<summary><b>Q7: What happens after submitting the application?</b></summary>
+A8: Applications will be reviewed before prior to Februaruy 24th, 2024, and selected teams will be contacted for the next steps, along with details for the Final Phase of Top Builder at Startup Day.
+</details>
+
+<details>
+<summary><b>Q8: Is there a deadline for project submission/update on GitHub?</b></summary>
+A9: Deadlines align with the Top Builder program phases. Thursday, Feb 24th 2024 - Registration Ends.
+</details>
+
+<details>
+<summary><b>Q9: What kind of support and mentorship will be provided during the Top Builder program?</b></summary>
+Participating teams in the Top Builder program will benefit from comprehensive support, including mentorship from industry-leading experts and access to exclusive workshops. The program offers a unique platform for networking with judges and peers, fostering an environment of collaboration and growth. Additionally, the event is an excellent opportunity for exposure, as it draws attention from media and investors worldwide. Teams compete not just for equity-free prize money but also for recognition on a global stage, all within an open and inclusive environment.
+</details>
+
+<details>
+<summary><b>Q10: Are there any fees associated with participating in Top Builder?</b></summary>
+A11: There are no application or participation fees for Top Builder. Just bring your best because you will be going up against it. 
+</details>
+
+<details>
+<summary><b>Q11: Can you describe the format of the final presentation for Top Builder and who will be evaluating the projects?</b></summary>
+In the final stage of the Top Builder competition, teams are allotted a 20-minute slot to present their project's advancements and achievements. This presentation is followed by a 10-minute interactive Q&A session with a distinguished panel of judges. This panel comprises experts in the Bitcoin and Lightning fields, including seasoned investors, successful entrepreneurs, and technical specialists. Their role is to assess the projects based on innovation, execution, and potential impact in the Bitcoin ecosystem.
+</details>
+
+
+<details>
+<summary><b>Q12: What sets the Top Builder competition at Startup Day apart in the Bitcoin startup ecosystem?</b></summary>
+The Top Builder competition, featured at Startup Day, stands out as an event for Bitcoin startups worldwide. It offers a platform for innovative teams to compete, showcasing their projects in an environment rich with mentorship, exposure, and collaboration opportunities. This event is not just a competition; it's a celebration of groundbreaking ideas and emerging talent in the Bitcoin ecosystem, attracting attention from investors and media worldwide.
+</details>
