@@ -1,76 +1,63 @@
----
-name: Project Submission / Update
-about: 'Use this template for Top Builder.'
-title: ''
-labels: Top Builder
-assignees: ''
+# Top Builder Application Form
 
----
-
-# Project Submission / Update
-
-**Instructions:**
+### Instructions
 1. After submitting this form, please assign the 'Top Builder' label.
 2. Link this issue to the 'Top Builder 2024 Schedule' project.
 3. If you wish to assign this issue to yourself, please do so after issue creation.
 
-<!-- Your template content follows -->
-
-## Team Information
-
+## THE TEAM
 - **Team Name**:
-- **Team Members**:
-- **Contact**:
+- **Contact Information**: *Name, Email*
+- **Number of Founders**:
+- **Team Background**: *Share professional backgrounds of each founder.*
+- **Bitcoin & Lightning Involvement**: *Describe involvement and experience.*
+- **Introduction Video Link**: 
+- **Pitch Deck**: *Share your pitch deck for the bitcoin project.* 
+- **Need for Project**: *Importance and utility.*
+- **Origin Story**: *Inspiration behind the idea.*
+- **Founders' Expertise**: *Relevant expertise in the field.*
 
-## Project Details
+## THE IDEA
+- **Project Overview**: *What does your project do?*
+- **Website**: 
+- **GitHub**: 
+- **Project Stage**: *Current progress.*
+- **Supplementary Materials**: *Project/workshop/demo videos, etc.*
+- **Team Involvement**: *Non-applicant contributors.*
 
+### Project Details
 - **Project Title**:
 - **Short Description**:
 
-## Submission Type
-<!-- Check the appropriate box -->
+### Additional Information
+- **Additional Links/Info**: 
+
+### Submission Type
 - [ ] Initial Project Submission
 - [ ] Project Update
 
-## Project Progress
-<!-- Include details if this is an update -->
+### Project Progress
 - **Progress Made**:
 - **Challenges Faced**:
-- **Next Steps**:
+- **Roadmap of What's Next**:
 
-## Additional Information
-<!-- Share any other information, such as links to demos, videos, repositories, etc. -->
-- **Additional Links/Info**:
-
-## Top Builder Program Structure
-
-### Round Information
-<!-- Indicate the current round for your project -->
-- [ ] Round 1 Dec 11th 2023 - Feb 5th 2024
-- [ ] Round 2 Feb 6th 2024 - March 5th 2024
-- [ ] Final Presentation (if applicable) March 14th 2024
-
-### Scoring and Evaluation
-<!-- Describe your engagement in the project: development, problem-solving, collaboration -->
-- **Active Participation Details**:
-- **Development Consistency**:
-- **Problem-Solving Initiatives**:
-- **Team Collaboration Highlights**:
-- **Milestone Achievements**:
-
-### Feedback and Improvements
-<!-- Discuss feedback received and how it has been implemented in your project -->
-- **Feedback Incorporated**:
-- **Improvements Made**:
-
-### PlebLab Workshops and Events
-<!-- Discuss your participation in workshops and any insights gained -->
-- **Workshop/Event Participation**:
-- **Insights Gained**:
-
-## Anticipated Deadlines and Milestones
-<!-- List any important upcoming dates or milestones for your project -->
+#### Anticipated Deadlines and Milestones
 - **Next Major Milestone**:
 - **Anticipated Completion Date**:
 
-<!-- Note: This template is part of the Top Builder initiative, aiming for a transparent and fair evaluation process that emphasizes active participation and the project development journey. -->
+### Top Builder Program Structure
+
+#### Round Information
+- Phase 1: Monday, Dec 18th 2023 - Feb 24th 2024 - Registration Ends
+- Phase 2: Thursday, Feb 24th 2024 - Final teams are selected for Startup Day.
+- Final Phase at Startup Day: Mar 14th 2024 - Final teams present at Startup Day in front of Judges.
+
+#### Feedback and Improvements
+- **Feedback Incorporated**:
+- **Improvements Made**:
+
+#### PlebLab Workshops and Events
+- **Workshop/Event Participation**:
+- **Insights Gained**:
+
+
