@@ -56,8 +56,9 @@ assignees: ''
 ### Top Builder Program Structure
 
 #### Round Information
-- Phase 1: Monday, Dec 18th 2023 - Feb 24th 2024 - Registration Ends
-- Phase 2: Thursday, Feb 24th 2024 - Final teams are selected for Startup Day.
+- Round 1: Monday, Dec 18th 2023 - Registration Officially Ends on Feb 24th 2024
+- Round 2: Saturday, Jan 15th 2024 - Feb 24th 2024 - Weekly workshops and mentorship starts. 
+- Round 2: Thursday, Feb 24th 2024 - Final teams are selected for Startup Day.
 - Final Phase at Startup Day: Mar 14th 2024 - Final teams present at Startup Day in front of Judges.
 
 #### Feedback and Improvements
@@ -77,7 +78,7 @@ A1: Eligible applicants include teams working on Bitcoin and Lightning projects,
 
 <details>
 <summary><b>Q2: What kind of projects is Top Builder looking for?</b></summary>
-A2: We seek innovative projects that contribute to the Bitcoin and Lightning ecosystem, ranging from technical solutions to unique business models.
+A2: We seek innovative projects that contribute to the Bitcoin and Lightning ecosystem, ranging from technical solutions to unique business models. 
 </details>
 
 <details>
@@ -112,7 +113,7 @@ A9: Deadlines align with the Top Builder program phases. Thursday, Feb 24th 2024
 
 <details>
 <summary><b>Q9: What kind of support and mentorship will be provided during the Top Builder program?</b></summary>
-Participating teams in the Top Builder program will benefit from comprehensive support, including mentorship from industry-leading experts and access to exclusive workshops. The program offers a unique platform for networking with judges and peers, fostering an environment of collaboration and growth. Additionally, the event is an excellent opportunity for exposure, as it draws attention from media and investors worldwide. Teams compete not just for equity-free prize money but also for recognition on a global stage, all within an open and inclusive environment.
+Participating teams in the Top Builder program will benefit from comprehensive support, including mentorship from industry experts and access to online workshops. Top Builder offers a unique platform for networking with judges and peers, fostering an environment of collaboration and growth. Additionally, the event is an excellent opportunity for exposure, as it draws attention from media and investors worldwide. Teams compete not just for equity-free prize money but also for recognition on a global stage, all within an open and inclusive environment.
 </details>
 
 <details>
@@ -121,12 +122,28 @@ A11: There are no application or participation fees for Top Builder. Just bring 
 </details>
 
 <details>
-<summary><b>Q11: Can you describe the format of the final presentation for Top Builder and who will be evaluating the projects?</b></summary>
+<summary><b>Q11: How to Actively Participate in Top Builder?</b></summary>
+A11: How to Actively Participate in Top Builder
+
+- Check Eligibility: Confirm the team's eligibility for the competition.
+- Prepare Submission: Gather necessary project details and submit via GitHub.
+- Use GitHub Template: Follow the 'Top Builder 2024 Submission' template on GitHub.
+- Submit Introduction Video: Create a 3-minute video about your project.
+- Participate in Events: Engage with the PlebLab community through live workshops and events.
+- Stay Updated with Deadlines: Track important dates, including submission deadlines and round selections. 
+- Regular Updates: Keep the community informed of your project's progress. Use #TopBuilder2024 on Nostr and Twitter.
+- Engage with the Community: Answer questions from judges, listen to and answer feedback, work with mentors for time and feedback, and collaborate within your GitHub project page. 
+
+By following these steps, participants get the most from Top Builder and gain exposure, mentorship, and collaboration opportunities in the Bitcoin ecosystem. 
+</details>
+
+<details>
+<summary><b>Q12: Can you describe the format of the final presentation for Top Builder and who will be evaluating the projects?</b></summary>
 In the final stage of the Top Builder competition, teams are allotted a 20-minute slot to present their project's advancements and achievements. This presentation is followed by a 10-minute interactive Q&A session with a distinguished panel of judges. This panel comprises experts in the Bitcoin and Lightning fields, including seasoned investors, successful entrepreneurs, and technical specialists. Their role is to assess the projects based on innovation, execution, and potential impact in the Bitcoin ecosystem.
 </details>
 
 
 <details>
-<summary><b>Q12: What sets the Top Builder competition at Startup Day apart in the Bitcoin startup ecosystem?</b></summary>
+<summary><b>Q13: What sets the Top Builder competition at Startup Day apart in the Bitcoin startup ecosystem?</b></summary>
 The Top Builder competition, featured at Startup Day, stands out as an event for Bitcoin startups worldwide. It offers a platform for innovative teams to compete, showcasing their projects in an environment rich with mentorship, exposure, and collaboration opportunities. This event is not just a competition; it's a celebration of groundbreaking ideas and emerging talent in the Bitcoin ecosystem, attracting attention from investors and media worldwide.
 </details>
