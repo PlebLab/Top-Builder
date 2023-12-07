@@ -1,5 +1,5 @@
 ---
-name: Top Builder 2024 Submission
+name: Top Builder Team Submission
 about: Use this template to submit projects to Top Builder 2024.
 title: "[Top Builder 2024]: "
 labels: Top Builder,Teams
@@ -13,30 +13,48 @@ assignees: ''
 
 ## THE TEAM
 - **Team Name**:
+
 - **Contact Information**: *Name, Email*
+ 
 - **Number of Founders**:
+
 - **Team Background**: *Share professional backgrounds of each founder.*
+
 - **Bitcoin & Lightning Involvement**: *Describe involvement and experience.*
-- **Introduction Video Link**: 
-- **Pitch Deck**: *Share your pitch deck for the bitcoin project.* 
+ 
+- **Introduction Video Link**:
+ 
+- **Pitch Deck**: *Share your pitch deck for the bitcoin project.*
+ 
 - **Need for Project**: *Importance and utility.*
+ 
 - **Origin Story**: *Inspiration behind the idea.*
+ 
 - **Founders' Expertise**: *Relevant expertise in the field.*
+
 
 ## THE IDEA
 - **Project Overview**: *What does your project do?*
-- **Website**: 
-- **GitHub**: 
+ 
+- **Website**:
+  
+- **GitHub**:
+ 
 - **Project Stage**: *Current progress.*
+ 
 - **Supplementary Materials**: *Project/workshop/demo videos, etc.*
+ 
 - **Team Involvement**: *Non-applicant contributors.*
+ 
 
 ### Project Details
 - **Project Title**:
+ 
 - **Short Description**:
+ 
 
 ### Additional Information
-- **Additional Links/Info**: 
+- **Additional Links/Info**:  
 
 ### Submission Type
 - [ ] Initial Project Submission
@@ -44,12 +62,17 @@ assignees: ''
 
 ### Project Progress
 - **Progress Made**:
+ 
 - **Challenges Faced**:
+ 
 - **Roadmap of What's Next**:
+ 
 
 #### Anticipated Deadlines and Milestones
 - **Next Major Milestone**:
+ 
 - **Anticipated Completion Date**:
+ 
 
 ### Top Builder Program Structure
 
@@ -61,11 +84,15 @@ assignees: ''
 
 #### Feedback and Improvements
 - **Feedback Incorporated**:
+ 
 - **Improvements Made**:
+ 
 
 #### PlebLab Workshops and Events
 - **Workshop/Event Participation**:
+ 
 - **Insights Gained**:
+ 
 
 # Frequently Asked Questions for Top Builder Application
 
