@@ -9,9 +9,7 @@ assignees: ''
 # Top Builder Application Form
 
 ### Instructions
-1. After submitting this form, please assign the 'Top Builder' label.
-2. Link this issue to the 'Top Builder 2024 Schedule' project.
-3. If you wish to assign this issue to yourself, please do so after issue creation.
+1. Create an issue to join Top Builder
 
 ## THE TEAM
 - **Team Name**:
