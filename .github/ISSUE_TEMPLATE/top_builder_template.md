@@ -57,7 +57,7 @@ assignees: ''
 
 #### Round Information
 - Round 1: Monday, Dec 18th 2023 - Registration Opens
-- Round 2: Saturday, Jan 15th 2024 - Feb 24th 2024 - Weekly workshops and mentorship starts. 
+- Round 2: Saturday, Jan 13th 2024 - Feb 24th 2024 - Weekly workshops and mentorship starts. 
 - Round 3: Thursday, Feb 24th 2024 - Final teams are selected for Startup Day.
 - Final Phase at Startup Day: Mar 14th 2024 - Final teams present at Startup Day in front of Judges.
 
