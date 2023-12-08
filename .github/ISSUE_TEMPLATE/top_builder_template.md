@@ -9,22 +9,23 @@ assignees: ''
 # Top Builder Application Form
 
 ### Instructions
-1. Create an issue to join Top Builder
+1. Create an issue to join Top Builder.
+2. Provide the most information you possibly can. This helps the judges. 
 
 ## THE TEAM
 - **Team Name**:
 
 - **Contact Information**: *Name, Email*
  
-- **Number of Founders**:
+- **Number of Founders**: 
 
-- **Team Background**: *Share professional backgrounds of each founder.*
+- **Team Background**: *Share the professional backgrounds of each founder.*
 
 - **Bitcoin & Lightning Involvement**: *Describe involvement and experience.*
  
-- **Introduction Video Link**:
+- **Introduction Video Link**: *Optional video of working MVP*
  
-- **Pitch Deck**: *Share your pitch deck for the bitcoin project.*
+- **Pitch Deck**: *Optional drop your pitch deck for your bitcoin project.*
  
 - **Need for Project**: *Importance and utility.*
  
@@ -36,13 +37,13 @@ assignees: ''
 ## THE IDEA
 - **Project Overview**: *What does your project do?*
  
-- **Website**:
+- **Website**: *(Optional if you have one)*
   
-- **GitHub**:
+- **GitHub**: 
  
 - **Project Stage**: *Current progress.*
  
-- **Supplementary Materials**: *Project/workshop/demo videos, etc.*
+- **Supplementary Materials**: *Any proof of work on the project, workshops or demo videos, etc.*
  
 - **Team Involvement**: *Non-applicant contributors.*
  
@@ -61,7 +62,7 @@ assignees: ''
 - [ ] Project Update
 
 ### Project Progress
-- **Progress Made**:
+- **Progress Made**: 
  
 - **Challenges Faced**:
  
@@ -76,11 +77,10 @@ assignees: ''
 
 ### Top Builder Program Structure
 
-#### Round Information
-- Round 1: Monday, Dec 18th 2023 - Registration Opens
-- Round 2: Saturday, Jan 13th 2024 - Feb 24th 2024 - Weekly workshops and mentorship starts. 
-- Round 3: Thursday, Feb 24th 2024 - Final teams are selected for Startup Day.
-- Final Phase at Startup Day: Mar 14th 2024 - Final teams present at Startup Day in front of Judges.
+#### Top Builder Registration Opens Monday, December 18, 2023
+- Round 1: Saturday, Jan 13th, 2024 - Feb 24th, 2024 - Weekly workshops and mentorship starts. 
+- Round 2: Thursday, Feb 24th, 2024 - Final teams are selected for Startup Day.
+- Final Round at Startup Day: Mar 14th, 2024 - Final teams present at Startup Day before Judges.
 
 #### Feedback and Improvements
 - **Feedback Incorporated**:
@@ -113,7 +113,7 @@ A3: The process includes submitting this GitHub form detailing your team, idea, 
 
 <details>
 <summary><b>Q4: What should be included in the introduction video?</b></summary>
-A4: Your video should introduce your team, explain your project idea, and highlight its uniqueness and contribution to the Bitcoin and Lightning community. Short 3 minute video is all that is needed.
+A4: Your video should introduce your team, explain your project idea, and highlight its uniqueness and contribution to the Bitcoin and Lightning community. A short 2-minute video is all that is needed.
 </details>
 
 <details>
@@ -128,7 +128,7 @@ A7: Teams with prior investments can apply.
 
 <details>
 <summary><b>Q7: What happens after submitting the application?</b></summary>
-A8: Applications will be reviewed before prior to Februaruy 24th, 2024, and selected teams will be contacted for the next steps, along with details for the Final Phase of Top Builder at Startup Day.
+A8: Applications will be reviewed before prior to February 24th, 2024, and selected teams will be contacted for the next steps, along with details for the Final Phase of Top Builder at Startup Day.
 </details>
 
 <details>
