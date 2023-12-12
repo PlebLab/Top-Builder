@@ -3,16 +3,25 @@
 Welcome to the Top Builder Program! Here's a quick overview of our schedule:
 
 - **Registration Opens**: Monday, December 18, 2023
+  - Interested teams apply for Top Builder.
+  - Top Builder teams will be selected based on their application. Read FAQ for more information.
 - **Round 1**: Saturday, Jan 13th, 2024 - Feb 24th, 2024
-  - Weekly workshops and mentorship starts.
+  - PlebLab weekly workshops are live and available online.
+  - Top Builder teams are selected to join the PlebLab internal chat
+  - Mentorship starts. 
 - **Round 2**: Thursday, Feb 24th, 2024
-  - Final teams are selected for Startup Day.
+  - The final five teams are selected.
+  - PlebLab will contact builders to come to Austin for Startup Day.
 - **Final Round at Startup Day**: Mar 14th, 2024
-  - Final teams present before Judges.
+  - Teams work on their pitch at PlebLab and are encouraged to come days before pitch day.  
+  - Final teams will present before the judges on Startup Day.
+  - Happy hour while Judges deliberate. 
+  - Top Builder is announced at Austin BitDevs the same evening.
+  - Top Builder after party. 
 
-# Top Builder at Startup Day
+# What is Startup Day?
 
-As part of Startup Day, we're excited to introduce the Top Builder event, a competition for teams to showcase their innovative projects in a supportive environment.
+Startup Day is a quarterly event for Bitcoin startups looking for a platform! Our event is jam-packed with engaging builder sessions, workshops, special announcements, and speaker panels designed to help all of us learn and grow as a community. We're excited to introduce the Top Builder event, a competition for teams to showcase their innovative projects in a supportive environment.
 
 ## Participating in Top Builder
 
@@ -60,7 +69,7 @@ A2: We seek innovative projects that contribute to the Bitcoin and Lightning eco
 
 <details>
 <summary><b>Q3: What are the stages of the application process?</b></summary>
-A3: The process includes submitting this GitHub form detailing your team, idea, details, and company, followed by various phases of development and review if selected.
+A3: The process includes submitting an application. PlebLab will review the application and contact the team to schedule a call. Selected teams will be added to the PlebLab internal chat to receive mentorship from the PlebLab community starting on January 13th, 2023. Registration will still be open to apply. Afterward, teams will use this GitHub form detailing the team, idea, details, and company, followed by various phases of development and review if selected. On Thursday, Feb 24th, 2024 the final five teams are selected. PlebLab will contact the teams to come to Austin for Startup Day.
 </details>
 
 <details>
@@ -122,5 +131,25 @@ In the final stage of the Top Builder competition, teams are allotted a 20-minut
 <details>
 <summary><b>Q13: What sets the Top Builder competition at Startup Day apart in the Bitcoin startup ecosystem?</b></summary>
 The Top Builder competition, featured at Startup Day, stands out as an event for Bitcoin startups worldwide. It offers a platform for innovative teams to compete, showcasing their projects in an environment rich with mentorship, exposure, and collaboration opportunities. This event is not just a competition; it's a celebration of groundbreaking ideas and emerging talent in the Bitcoin ecosystem, attracting attention from investors and media worldwide.
+</details>
+
+<details>
+<summary><b>Q14: What are the criteria for selecting Top Builder teams?</b></summary>
+
+The criteria for selecting Top Builder teams are multifaceted, focusing on innovation, contribution to the Bitcoin and Lightning ecosystem, and the project's potential impact.
+
+- **Eligibility with a Focus on New Builders and Emerging Businesses**: We are particularly eager to welcome new builders and entrepreneurs embarking on their journey in the Bitcoin and Lightning ecosystem. If you are in the early stages of establishing a Bitcoin business, have a fresh project concept, or are developing an innovative solution with a minimum viable product (MVP), you are the ideal candidate for this opportunity. Whether you're a startup just taking off, an individual with groundbreaking ideas, or even an existing business pivoting to Bitcoin technology, we are here to support your growth and innovation. Our goal is to nurture the next generation of Bitcoin innovators and entrepreneurs.
+
+- **Project Type**: The competition looks for innovative projects contributing significantly to the Bitcoin and Lightning ecosystem. This includes a range of projects, from technical solutions to unique business models.
+
+- **Application Process**: Teams must submit an application, which includes detailing their team, idea, and project details. PlebLab reviews these applications and selects teams for further mentoring and development.
+
+- **Global**: International teams and teams with prior investments are encouraged to apply.
+
+- **Engagement and Participation**: Active participation in PlebLab workshops, regular updates on project progress, and engagement with the community are essential aspects of the selection process. PlebLab helps you on your path to becoming a Top Builder.
+
+- **Final Presentation**: In the final stage, teams are evaluated based on a presentation before a panel of judges comprising experts in the Bitcoin and Lightning fields. This assessment focuses on the innovation, execution, and potential impact of the projects.
+
+Overall, the Top Builder teams are selected based on their innovative approach, their projects' relevance and potential impact on the Bitcoin ecosystem, and their active participation and engagement throughout the competition process.
 </details>
 
