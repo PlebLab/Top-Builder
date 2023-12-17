@@ -116,7 +116,7 @@ Welcome to the Top Builder Program!
 
 ## What is Startup Day?
 
-Startup Day is a quarterly event for Bitcoin startups. It includes builder sessions, workshops, announcements, and speaker panels. The Top Builder event is a competition for teams to showcase their projects in a supportive environment.
+Startup Day is a twice-yearly event for Bitcoin startups. It includes builder sessions, workshops, announcements, and speaker panels. The Top Builder event is now a part of Startup Day, and it is a competition for teams to showcase their projects in a supportive environment.
 
 
 ## Project Updates for Top Builder teams
