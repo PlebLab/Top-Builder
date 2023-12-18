@@ -61,7 +61,17 @@ The Top Builder competition, featured at Startup Day, stands out as an event for
 </details>
 
 <details>
-<summary><b>Q13: What are the criteria for selecting Top Builder teams?</b></summary>
+<summary><b>Q13: Is this competition designed for teams, individuals, or both?</b></summary>
+<p>We prefer it if you already have a team, but if you need help, we can help you. Also, check out this post on <a href="https://stacker.news/items/338224">Stacker News</a>.</p>
+</details>
+
+<details>
+<summary><b>Q14: Is this competition designed to get us funded by Wolf, or can I compete for the prize money?</b></summary>
+<p>Wolf reached out to PlebLab to make something cool for the Bitcoin builder space. We were stoked they gave us the opportunity to create whatever we wanted. PlebLab wanted to do something different than a typical 3-day hackathon. We wanted to take the competition to another level. By participating in Top Builder, you can win 15K in Bitcoin. This is equity-free and is not something Wolf or PlebLab is investing in your project. The real reward is in what you've built. The money buys you time to work on it and is designed to level you up as a builder in Bitcoin. We are trying to bring what makes PlebLab a special place but online and remote for the first time.</p>
+</details>
+  
+<details>
+<summary><b>Q15: What are the criteria for selecting Top Builder teams?</b></summary>
 
 The criteria for selecting Top Builder teams are multifaceted, focusing on innovation, contribution to the Bitcoin and Lightning ecosystem, and the project's potential impact.
 
