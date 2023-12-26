@@ -1,3 +1,5 @@
+![Top Builder Graphic](https://i.ibb.co/WGCCK9s/Top-Builder-2148-x-1152-px.png)
+
 # Frequently Asked Questions for Top Builder Application
 
 <details>
@@ -92,7 +94,11 @@ Overall, the Top Builder teams are selected based on their innovative approach, 
 
 # Top Builder Program Structure
 
-Welcome to the Top Builder Program!
+<p align="center">
+  <img src="https://i.ibb.co/0YJSbrx/topbuild.gif" alt="Top Builder GIF">
+  <br>
+  <strong>Welcome to the Top Builder Program!</strong>
+</p>
 
 ## Schedule Overview
 
@@ -123,6 +129,8 @@ Welcome to the Top Builder Program!
 - **Deliberation**: Judges decide during a happy hour.
 - **Announcement**: The winner of Top Builder is announced at Austin BitDevs.
 - **Celebration**: After-party for Top Builder.
+
+![Startup Day Graphic](https://i.ibb.co/6XH6tXJ/startup-day-2148-x-1152-px.jpg)
 
 ## What is Startup Day?
 
