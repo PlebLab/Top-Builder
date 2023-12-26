@@ -6,7 +6,7 @@ labels: Top Builder,Teams
 assignees: ''
 ---
 
-# 🏗️ Top Builder 2024 Application Form to track progress through Round 1 - 3
+# 🏗️ Top Builder 2024 Application Form to track progress through Round 1 - 3 / Currently in Round 1
 
 ## 📝 Instructions
 1. Only complete this form if you have been chosen for Top Builder, by PlebLab.
@@ -31,16 +31,18 @@ assignees: ''
 
 ## 📌 Submission Type
 - [ ] Initial Project Creation
-- [ ] Recreation of Project Creation
 
-## 🚀 Project Progress
+## 🚀 Current Project Progress
 - **Progress Made**:
 - **Challenges Faced**:
-- **Roadmap of What's Next**:
+- **Future Roadmap of what's next**:
 
-## ⏳ Anticipated Deadlines and Milestones
-- **Next Major Milestone**:
-- **Anticipated Completion Date**:
+## ⏳ Round 1 Milestone
+- **Keep in mind that completion will need to be by February 10th, 2024.**
+- **First-round milestone the team has set for themselves:**
+
+## 📝 Submission Complete
+- **All required information has been provided above.**
 
 ## 📅 Top Builder Program Structure
 ### Registration Opens: Monday, December 18, 2023
