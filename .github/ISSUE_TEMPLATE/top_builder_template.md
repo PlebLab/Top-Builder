@@ -6,7 +6,7 @@ labels: Top Builder,Teams
 assignees: ''
 ---
 
-# 🏗️ Top Builder 2024 Application Form to track progress through Round 1 - 3 / Currently in Round 1
+# 🏗️ Top Builder 2024 Application Form to track progress through Round 1 - 3 ~ Currently in Round 1
 
 ## 📝 Instructions
 1. Only complete this form if you have been chosen for Top Builder, by PlebLab.
