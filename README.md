@@ -14,7 +14,7 @@ A2: We seek innovative projects that contribute to the Bitcoin and Lightning eco
 
 <details>
 <summary><b>Q3: What are the stages of the application process?</b></summary>
-A3: The process includes submitting an application. PlebLab will review the application and contact the team to schedule a call. Selected teams will be added to the PlebLab internal chat to receive mentorship from the PlebLab community starting on January 13th, 2023. Afterward, teams will use GitHub detailing the team, idea, and details, followed by updates from various phases of development, project milestones, and tournament review. The final six teams will be selected on Thursday, Feb 26th, 2024. PlebLab will contact the teams to come to Austin for Startup Day.
+A3: The process includes submitting an application. PlebLab will review the application and contact the team to schedule a call. Selected teams will be added to the PlebLab internal chat to receive mentorship from the PlebLab community starting on January 13th, 2023. Afterward, teams will use GitHub detailing the team, idea, and details, followed by updates from various phases of development, project milestones, and tournament review. The final six teams will be selected on Saturday, Feb 24th, 2024. PlebLab will contact the teams to come to Austin for Startup Day.
 </details>
 
 <details>
@@ -112,13 +112,13 @@ Overall, the Top Builder teams are selected based on their innovative approach, 
 - **Mentorship**: Begins for teams.
 - **Project Milestones**: Teams are set and judged on their first-round milestones.
 
-### **Round 2: February 10 - 25, 2024**
+### **Round 2: February 10 - 24, 2024**
 - **Team Reduction**: PlebLab cuts half of the Top Builder teams. (Only half continued in Round 2.)
 - **Project Milestones**: Teams are set and judged on their second-round milestones.
 - **Workshops**: PlebLab weekly workshops continue.
 - **Mentorship**: Continues.
 
-### **Round 3: Starting February 26, 2024**
+### **Round 3: Starting February 24, 2024**
 - **Team Reduction**: PlebLab narrows down to 6 Top Builder teams. (All will be pitching in Austin.)
 - **Final Milestones**: Teams set final project milestones for the last round.
 - **Preparation**: Teams prepare their pitch in front of judges. Final teams are contacted to come to Austin for Startup Day.
