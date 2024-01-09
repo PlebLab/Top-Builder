@@ -53,22 +53,22 @@ assignees: ''
 - **Workshops**: PlebLab weekly workshops start, available live and online.
 - **Chat Access**: Selected teams join the PlebLab internal chat.
 - **Mentorship**: Begins for teams.
-- **Project Milestones**: First-round milestones assessment.
+- **Project Milestones**: Teams are set and judged on their first-round milestones.
 
-### Round 2: February 10 - 25, 2024
-- **Team Reduction**: Half of the teams continue.
-- **Project Milestones**: Second-round milestones assessment.
-- **Workshops**: Continued weekly workshops.
+### Round 2: February 10 - 24, 2024
+- **Team Reduction**: PlebLab cuts half of the Top Builder teams. (Only half continued in Round 2.)
+- **Project Milestones**: Teams are set and judged on their second-round milestones.
+- **Workshops**: PlebLab weekly workshops continue.
 - **Mentorship**: Continues.
 
-### Round 3: Starting February 26, 2024
-- **Team Reduction**: Narrowed down to 6 teams.
-- **Final Milestones**: Set for the last round.
-- **Preparation**: For pitch in Austin.
+### Round 3: Starting February 24, 2024
+- **Team Reduction**: PlebLab narrows down to 6 Top Builder teams. (All will be pitching in Austin.)
+- **Final Milestones**: Teams set final project milestones for the last round.
+- **Preparation**: Teams prepare their pitch in front of judges. Final teams are contacted to come to Austin for Startup Day.
 
 ### Final Round at Startup Day: March 14, 2024
-- **Preparation**: Final pitch preparations at PlebLab.
-- **Presentations**: Before judges on Startup Day.
+- **Preparation**: Teams work on their final pitches at PlebLab.
+- **Presentations**: Final teams present before judges on Startup Day.
 - **Deliberation**: Judges decide during a happy hour.
-- **Announcement**: Winner announced at Austin BitDevs.
+- **Announcement**: The winner of Top Builder is announced at Austin BitDevs.
 - **Celebration**: After-party for Top Builder.
